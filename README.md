@@ -1,23 +1,47 @@
 # ---------------- Spring Cloud Microservices ----------------
-## Angular Client : https://github.com/kenzaAddi/Spring_cloud_Microservices-Angular-Client.git
-## Endpoints
-### Inventory service
-![image](https://user-images.githubusercontent.com/62290643/199279561-8a0685cb-f8a5-4b23-9d6c-889a20a49fe7.png)
-### Customer Service
-![image](https://user-images.githubusercontent.com/62290643/199280713-d61fec69-b2e3-4028-aa52-75219e92c1bc.png)
-### Registry Eureka Service
-![image](https://user-images.githubusercontent.com/62290643/199281126-a1092226-771c-4f14-84ad-65643e979169.png)
-# EndPoints
-## Customer Service
-### All Customers
-![image](https://user-images.githubusercontent.com/62290643/200776086-65ddf6e8-4513-46e7-986e-d0f4e76a5727.png)
-### One Customer (By Id)
-![image](https://user-images.githubusercontent.com/62290643/200776331-de954a06-02f6-4786-aee3-68cc917838df.png)
-## Products Service
-### All Products
-![image](https://user-images.githubusercontent.com/62290643/200777250-d7bc9122-d890-4239-b6c0-6a4ca1d6baf2.png)
-### One Product (By Id)
-![image](https://user-images.githubusercontent.com/62290643/200777548-889d86ff-465f-4e0b-9176-5d0ba8bca5b4.png)
-## BIlling Service
-![image](https://user-images.githubusercontent.com/62290643/200775821-94485528-c462-45db-bbb4-3d4e97cb08ae.png)
-![image](https://user-images.githubusercontent.com/62290643/200777870-0beb6941-30dc-4cdc-b48c-30acc4a1f057.png)
+
+## <ins>**Table de matière**</ins>
+
+I.	Mise en œuvre des architecture micro-services avec Spring Cloud
+
+
+
+
+
+
+I.	Mise en œuvre des architecture micro-services avec Spring Cloud
+
+  * ##  Architecture de l’application :
+
+![image](https://user-images.githubusercontent.com/79708292/206131983-57efaab1-f499-4edc-98a4-bd56ab3d89af.png)
+
+ 
+ * ##   Conception de l’application :
+ 
+![image](https://user-images.githubusercontent.com/79708292/206132027-b5568a4f-fdcc-4c4a-b705-93f1883495a1.png)
+
+
+
+ *  ##  Capture d’écran de l’application :
+
+
+ ###      1.1 Customer Service - get All Customers
+
+![image](https://user-images.githubusercontent.com/79708292/206134546-09c2559d-f50f-4861-9318-141891b002d5.png)
+
+ ###      1.2  Customer Service - get Customer by ID
+
+![image](https://user-images.githubusercontent.com/79708292/206134804-42b58cef-7cf7-42f0-97a5-bdbed0f737f0.png)
+
+ ###      2.1  Inventory Service - get All Products
+
+![image](https://user-images.githubusercontent.com/79708292/206135031-6db2a62c-0e8c-4692-b99c-e5bf24f3d6a3.png)
+
+ ###      2.2   Inventory Service - get Product by ID
+
+![image](https://user-images.githubusercontent.com/79708292/206135199-13410d1b-00fc-45bc-be8e-04730f3de25a.png)
+
+###       3.1   Registry Eureka Service
+       
+ ![image](https://user-images.githubusercontent.com/79708292/206138048-293f1a86-2a56-4a8e-beb6-ce026f095667.png)
+
