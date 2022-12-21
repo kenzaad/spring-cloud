@@ -1,5 +1,5 @@
 # ---------------- Spring Cloud Microservices ----------------
-## Angular Client : https://github.com/boumohamed/Spring_cloud_Microservices-Angular-Client.git
+## Angular Client : https://github.com/kenzaAddi/Spring_cloud_Microservices-Angular-Client.git
 ## Endpoints
 ### Inventory service
 ![image](https://user-images.githubusercontent.com/62290643/199279561-8a0685cb-f8a5-4b23-9d6c-889a20a49fe7.png)
